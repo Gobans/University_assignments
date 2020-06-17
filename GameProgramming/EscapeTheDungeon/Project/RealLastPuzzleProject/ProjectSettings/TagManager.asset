@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Key
+  - Replay
+  - Trap
+  - Enemy
+  - Wall_Unbroken
+  - wizard
+  - Skeleton
+  - SkeletonKing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - object
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 338033593
+    locked: 0
+  - name: Enemies
+    uniqueID: 2438196489
+    locked: 0
+  - name: Player
+    uniqueID: 782057747
+    locked: 0
+  - name: Items
+    uniqueID: 4205796013
+    locked: 0
+  - name: wizard
+    uniqueID: 3259024109
+    locked: 0

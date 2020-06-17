@@ -1,0 +1,3302 @@
+fileFormatVersion: 2
+guid: c178f80a5cc3fee4b8ee91c4f33d1756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1411718729462627031
+    second: wizard attack_0
+  - first:
+      213: 3933499714294820406
+    second: wizard attack_1
+  - first:
+      213: -1634756234499489522
+    second: wizard attack_2
+  - first:
+      213: -8201188565566148735
+    second: wizard attack_3
+  - first:
+      213: 3924587004258133671
+    second: wizard attack_4
+  - first:
+      213: 3687349637515484808
+    second: wizard attack_5
+  - first:
+      213: 6215951376254583049
+    second: wizard attack_6
+  - first:
+      213: -8860941670812879454
+    second: wizard attack_7
+  - first:
+      213: -7632629494655975057
+    second: wizard attack_8
+  - first:
+      213: -4910071847443526791
+    second: wizard attack_9
+  - first:
+      213: -7176615878947278896
+    second: wizard attack_10
+  - first:
+      213: -2711782188375339434
+    second: wizard attack_11
+  - first:
+      213: -8634622765834890560
+    second: wizard attack_12
+  - first:
+      213: -8533548000235705288
+    second: wizard attack_13
+  - first:
+      213: -4777261997857355116
+    second: wizard attack_14
+  - first:
+      213: -2489031139427162358
+    second: wizard attack_15
+  - first:
+      213: -7374472662633388755
+    second: wizard attack_16
+  - first:
+      213: 7719894855035252963
+    second: wizard attack_17
+  - first:
+      213: 5835540267590058519
+    second: wizard attack_18
+  - first:
+      213: 139426746116544330
+    second: wizard attack_19
+  - first:
+      213: -3535551843894914427
+    second: wizard attack_20
+  - first:
+      213: 1696401818884517349
+    second: wizard attack_21
+  - first:
+      213: -6804087511392511467
+    second: wizard attack_22
+  - first:
+      213: 763471950937164164
+    second: wizard attack_23
+  - first:
+      213: -2258713960326744362
+    second: wizard attack_24
+  - first:
+      213: -4815728264891838288
+    second: wizard attack_25
+  - first:
+      213: -6746510606852729435
+    second: wizard attack_26
+  - first:
+      213: 5519035413946411430
+    second: wizard attack_27
+  - first:
+      213: 3746285205394914310
+    second: wizard attack_28
+  - first:
+      213: 6532563118097502380
+    second: wizard attack_29
+  - first:
+      213: -136661028689280816
+    second: wizard attack_30
+  - first:
+      213: -8086403066386643735
+    second: wizard attack_31
+  - first:
+      213: -1044281981349518582
+    second: wizard attack_32
+  - first:
+      213: 8251135331795387459
+    second: wizard attack_33
+  - first:
+      213: 957809505286269096
+    second: wizard attack_34
+  - first:
+      213: 7643068005851015805
+    second: wizard attack_35
+  - first:
+      213: 2904826069085629705
+    second: wizard attack_36
+  - first:
+      213: -4857656322752078047
+    second: wizard attack_37
+  - first:
+      213: -4551599800240927298
+    second: wizard attack_38
+  - first:
+      213: -7781857553165599575
+    second: wizard attack_39
+  - first:
+      213: -5907631700135289203
+    second: wizard attack_40
+  - first:
+      213: 2072205284292640007
+    second: wizard attack_41
+  - first:
+      213: 1796944850025869944
+    second: wizard attack_42
+  - first:
+      213: -75751067146505198
+    second: wizard attack_43
+  - first:
+      213: 8143264720562410587
+    second: wizard attack_44
+  - first:
+      213: 5197422383379185201
+    second: wizard attack_45
+  - first:
+      213: 4054466552822075751
+    second: wizard attack_46
+  - first:
+      213: -1903536478082291404
+    second: wizard attack_47
+  - first:
+      213: -4599064142693467173
+    second: wizard attack_48
+  - first:
+      213: 1302644678994220399
+    second: wizard attack_49
+  - first:
+      213: 7511923152306238520
+    second: wizard attack_50
+  - first:
+      213: -275461392015724491
+    second: wizard attack_51
+  - first:
+      213: 4688054450441394961
+    second: wizard attack_52
+  - first:
+      213: 1480356157029820864
+    second: wizard attack_53
+  - first:
+      213: 6549685301540727159
+    second: wizard attack_54
+  - first:
+      213: -3769014774526196861
+    second: wizard attack_55
+  - first:
+      213: -6088299930284421831
+    second: wizard attack_56
+  - first:
+      213: 5876781996700598101
+    second: wizard attack_57
+  - first:
+      213: 9149877277643133575
+    second: wizard attack_58
+  - first:
+      213: 2633407366286792495
+    second: wizard attack_59
+  - first:
+      213: -8192090443059695387
+    second: wizard attack_60
+  - first:
+      213: 4260894882733338114
+    second: wizard attack_61
+  - first:
+      213: -6942964360245985234
+    second: wizard attack_62
+  - first:
+      213: -8576253471667244565
+    second: wizard attack_63
+  - first:
+      213: 7146623355961023603
+    second: wizard attack_64
+  - first:
+      213: -2520464539258070393
+    second: wizard attack_65
+  - first:
+      213: -3284995700736223398
+    second: wizard attack_66
+  - first:
+      213: 9002971591703464331
+    second: wizard attack_67
+  - first:
+      213: -2439173124806447803
+    second: wizard attack_68
+  - first:
+      213: -6635662345975204782
+    second: wizard attack_69
+  - first:
+      213: 429548656313280150
+    second: wizard attack_70
+  - first:
+      213: -3397019072161768252
+    second: wizard attack_71
+  - first:
+      213: -5630375086935590489
+    second: wizard attack_72
+  - first:
+      213: 5588621192708608312
+    second: wizard attack_73
+  - first:
+      213: -5830417303788013790
+    second: wizard attack_74
+  - first:
+      213: -9128955493507828926
+    second: wizard attack_75
+  - first:
+      213: 8790272667830662467
+    second: wizard attack_76
+  - first:
+      213: -9061797182565402575
+    second: wizard attack_77
+  - first:
+      213: 8170388805828476524
+    second: wizard attack_78
+  - first:
+      213: -1481469022741444278
+    second: wizard attack_79
+  - first:
+      213: -5429667680266769952
+    second: wizard attack_80
+  - first:
+      213: 8278388254376296456
+    second: wizard attack_81
+  - first:
+      213: 6911848865966384931
+    second: wizard attack_82
+  - first:
+      213: -3714061898714662069
+    second: wizard attack_83
+  - first:
+      213: 3645674273284654569
+    second: wizard attack_84
+  - first:
+      213: 3631188268088480499
+    second: wizard attack_85
+  - first:
+      213: -7875420943143837901
+    second: wizard attack_86
+  - first:
+      213: 2362320584133969769
+    second: wizard attack_87
+  - first:
+      213: 6216627127896848062
+    second: wizard attack_88
+  - first:
+      213: -182412463541930819
+    second: wizard attack_89
+  - first:
+      213: -1889108490029942177
+    second: wizard attack_90
+  - first:
+      213: 8442903641566561852
+    second: wizard attack_91
+  - first:
+      213: 1038047738910380448
+    second: wizard attack_92
+  - first:
+      213: -832648068260927924
+    second: wizard attack_93
+  - first:
+      213: -8560965403545441512
+    second: wizard attack_94
+  - first:
+      213: -7818238349778989944
+    second: wizard attack_95
+  - first:
+      213: 6225935436831934765
+    second: wizard attack_96
+  - first:
+      213: 2153419822731119164
+    second: wizard attack_97
+  - first:
+      213: -5391302727111440076
+    second: wizard attack_98
+  - first:
+      213: 6596073597504541772
+    second: wizard attack_99
+  - first:
+      213: 9010281243398077006
+    second: wizard attack_100
+  - first:
+      213: 108779442870373098
+    second: wizard attack_101
+  - first:
+      213: 3586687515009592101
+    second: wizard attack_102
+  - first:
+      213: -6488679351761018599
+    second: wizard attack_103
+  - first:
+      213: 5860600876963889909
+    second: wizard attack_104
+  - first:
+      213: -7944309440264636202
+    second: wizard attack_105
+  - first:
+      213: -6395955144849423728
+    second: wizard attack_106
+  - first:
+      213: 1943124280381540804
+    second: wizard attack_107
+  - first:
+      213: 8341040459085968962
+    second: wizard attack_108
+  - first:
+      213: -1609780775469526260
+    second: wizard attack_109
+  - first:
+      213: 8351637602427365966
+    second: wizard attack_110
+  - first:
+      213: -10566976674313322
+    second: wizard attack_111
+  - first:
+      213: 8851569928313625642
+    second: wizard attack_112
+  - first:
+      213: 3243429286456503387
+    second: wizard attack_113
+  - first:
+      213: 4821672628767727919
+    second: wizard attack_114
+  - first:
+      213: -8723323243092898188
+    second: wizard attack_115
+  - first:
+      213: 3840723065240622817
+    second: wizard attack_116
+  - first:
+      213: -912325233042693042
+    second: wizard attack_117
+  - first:
+      213: -8648588304259557073
+    second: wizard attack_118
+  - first:
+      213: -9123389809388883193
+    second: wizard attack_119
+  - first:
+      213: 112045612081570552
+    second: wizard attack_120
+  - first:
+      213: 6588359500716532402
+    second: wizard attack_121
+  - first:
+      213: -4183454733860560118
+    second: wizard attack_122
+  - first:
+      213: -669996738365697260
+    second: wizard attack_123
+  - first:
+      213: -7158409371432342873
+    second: wizard attack_124
+  - first:
+      213: -5487635498103391730
+    second: wizard attack_125
+  - first:
+      213: 1694383486480797097
+    second: wizard attack_126
+  - first:
+      213: -209140006911974639
+    second: wizard attack_127
+  - first:
+      213: 5149349029898770056
+    second: wizard attack_128
+  - first:
+      213: -9177995665551903857
+    second: wizard attack_129
+  - first:
+      213: -2370586058804318197
+    second: wizard attack_130
+  - first:
+      213: -770294874222146702
+    second: wizard attack_131
+  - first:
+      213: -8017433271579153232
+    second: wizard attack_132
+  - first:
+      213: -6737933289355489094
+    second: wizard attack_133
+  - first:
+      213: 2005769152229148482
+    second: wizard attack_134
+  - first:
+      213: -5144481896430463858
+    second: wizard attack_135
+  - first:
+      213: -8280013267089839073
+    second: wizard attack_136
+  - first:
+      213: -3744429222521194891
+    second: wizard attack_137
+  - first:
+      213: -2620201376474431037
+    second: wizard attack_138
+  - first:
+      213: -1725655858372047101
+    second: wizard attack_139
+  - first:
+      213: 4287081582854811012
+    second: wizard attack_140
+  - first:
+      213: -6427962515453985447
+    second: wizard attack_141
+  - first:
+      213: -3193807849022352088
+    second: wizard attack_142
+  - first:
+      213: -2048664233172253181
+    second: wizard attack_143
+  - first:
+      213: 2839485873461508733
+    second: wizard attack_144
+  - first:
+      213: -3197865213944333801
+    second: wizard attack_145
+  - first:
+      213: -5128763557646276643
+    second: wizard attack_146
+  - first:
+      213: -1525527408666445357
+    second: wizard attack_147
+  - first:
+      213: -8012342204138414319
+    second: wizard attack_148
+  - first:
+      213: 7799938460483757431
+    second: wizard attack_149
+  - first:
+      213: -4139963081854740933
+    second: wizard attack_150
+  - first:
+      213: -4631428278315807758
+    second: wizard attack_151
+  - first:
+      213: 5018649878827243235
+    second: wizard attack_152
+  - first:
+      213: 6125012707021768916
+    second: wizard attack_153
+  - first:
+      213: -1435088893660316400
+    second: wizard attack_154
+  - first:
+      213: -5606780096277132449
+    second: wizard attack_155
+  - first:
+      213: -1626969877453943744
+    second: wizard attack_156
+  - first:
+      213: -2184855025523790639
+    second: wizard attack_157
+  - first:
+      213: 4051006004609263536
+    second: wizard attack_158
+  - first:
+      213: -9139549563949162455
+    second: wizard attack_159
+  - first:
+      213: -838757515417855843
+    second: wizard attack_160
+  - first:
+      213: 767837589651495589
+    second: wizard attack_161
+  - first:
+      213: 7181369755628548251
+    second: wizard attack_162
+  - first:
+      213: 5193965439983007747
+    second: wizard attack_163
+  - first:
+      213: -4364966270083395212
+    second: wizard attack_164
+  - first:
+      213: 105530192870655357
+    second: wizard attack_165
+  - first:
+      213: -8871276538621396218
+    second: wizard attack_166
+  - first:
+      213: -5092684142834136962
+    second: wizard attack_167
+  - first:
+      213: 1165751975780751662
+    second: wizard attack_168
+  - first:
+      213: -771705224608855824
+    second: wizard attack_169
+  - first:
+      213: -6690584352817486347
+    second: wizard attack_170
+  - first:
+      213: 991752349807069660
+    second: wizard attack_171
+  - first:
+      213: -2982405458046716266
+    second: wizard attack_172
+  - first:
+      213: 2757599093408579466
+    second: wizard attack_173
+  - first:
+      213: -2360402540781483146
+    second: wizard attack_174
+  - first:
+      213: 1895443450257925283
+    second: wizard attack_175
+  - first:
+      213: 817412111255615469
+    second: wizard attack_176
+  - first:
+      213: 1582529116368793763
+    second: wizard attack_177
+  - first:
+      213: -6791235359441887306
+    second: wizard attack_178
+  - first:
+      213: 6633187984095418113
+    second: wizard attack_179
+  - first:
+      213: 8365303196941263298
+    second: wizard attack_180
+  - first:
+      213: -4190551529857840964
+    second: wizard attack_181
+  - first:
+      213: -4482459261657546654
+    second: wizard attack_182
+  - first:
+      213: -3052122328930467607
+    second: wizard attack_183
+  - first:
+      213: 829865032069153919
+    second: wizard attack_184
+  - first:
+      213: 8759870803598720507
+    second: wizard attack_185
+  - first:
+      213: -4738624228828679460
+    second: wizard attack_186
+  - first:
+      213: 7093530688605712165
+    second: wizard attack_187
+  - first:
+      213: -703177201006719542
+    second: wizard attack_188
+  - first:
+      213: 9064686804999774609
+    second: wizard attack_189
+  - first:
+      213: 5007213242487549517
+    second: wizard attack_190
+  - first:
+      213: -1675941089395862632
+    second: wizard attack_191
+  - first:
+      213: -709227768114454957
+    second: wizard attack_192
+  - first:
+      213: -7301716500477726999
+    second: wizard attack_193
+  - first:
+      213: 5709864510616460363
+    second: wizard attack_194
+  - first:
+      213: -5236048745623441086
+    second: wizard attack_195
+  - first:
+      213: -1291407969156750330
+    second: wizard attack_196
+  - first:
+      213: 6678541407611248711
+    second: wizard attack_197
+  - first:
+      213: -6806249960989490612
+    second: wizard attack_198
+  - first:
+      213: 4113933173436248814
+    second: wizard attack_199
+  - first:
+      213: 8923197853660242043
+    second: wizard attack_200
+  - first:
+      213: -7691796328890093122
+    second: wizard attack_201
+  - first:
+      213: 4287640573639600510
+    second: wizard attack_202
+  - first:
+      213: 2268394063159559170
+    second: wizard attack_203
+  - first:
+      213: -4099887717063512023
+    second: wizard attack_204
+  - first:
+      213: -6334814300397756631
+    second: wizard attack_205
+  - first:
+      213: -5439915631615743270
+    second: wizard attack_206
+  - first:
+      213: 8382389128552057933
+    second: wizard attack_207
+  - first:
+      213: 9001468467513833950
+    second: wizard attack_208
+  - first:
+      213: -2114101963203104064
+    second: wizard attack_209
+  - first:
+      213: -894975896254174227
+    second: wizard attack_210
+  - first:
+      213: -2054630304201742811
+    second: wizard attack_211
+  - first:
+      213: -4698529037771900369
+    second: wizard attack_212
+  - first:
+      213: 2074704661104098566
+    second: wizard attack_213
+  - first:
+      213: -9018876380043177383
+    second: wizard attack_214
+  - first:
+      213: 2807743985828507707
+    second: wizard attack_215
+  - first:
+      213: -1553987069602096796
+    second: wizard attack_216
+  - first:
+      213: -5881705503784106016
+    second: wizard attack_217
+  - first:
+      213: -1082460017382321822
+    second: wizard attack_218
+  - first:
+      213: -7275788783096984743
+    second: wizard attack_219
+  - first:
+      213: 2940723878357978257
+    second: wizard attack_220
+  - first:
+      213: -6709702427991875457
+    second: wizard attack_221
+  - first:
+      213: -4276910384384862290
+    second: wizard attack_222
+  - first:
+      213: -6393149600770348879
+    second: wizard attack_223
+  - first:
+      213: -6665274574392270749
+    second: wizard attack_224
+  - first:
+      213: 1713544377759026917
+    second: wizard attack_225
+  - first:
+      213: -7187183359482000779
+    second: wizard attack_226
+  - first:
+      213: 5849720292466645072
+    second: wizard attack_227
+  - first:
+      213: -492509434250187197
+    second: wizard attack_228
+  - first:
+      213: 2629520412279138520
+    second: wizard attack_229
+  - first:
+      213: 651111766180144103
+    second: wizard attack_230
+  - first:
+      213: 9127142318757692377
+    second: wizard attack_231
+  - first:
+      213: 1168120500174738260
+    second: wizard attack_232
+  - first:
+      213: -121875698601387102
+    second: wizard attack_233
+  - first:
+      213: -8222877757565735529
+    second: wizard attack_234
+  - first:
+      213: 8004853446701684411
+    second: wizard attack_235
+  - first:
+      213: 501280009462808696
+    second: wizard attack_236
+  - first:
+      213: -2708983275336634404
+    second: wizard attack_237
+  - first:
+      213: -4594173616926512147
+    second: wizard attack_238
+  - first:
+      213: 6288125496489152708
+    second: wizard attack_239
+  - first:
+      213: 8724840622462627705
+    second: wizard attack_240
+  - first:
+      213: 9066115852902108300
+    second: wizard attack_241
+  - first:
+      213: 7119852678914631892
+    second: wizard attack_242
+  - first:
+      213: -6993283811429914934
+    second: wizard attack_243
+  - first:
+      213: 3037199575789556262
+    second: wizard attack_244
+  - first:
+      213: 1874517303048497379
+    second: wizard attack_245
+  - first:
+      213: -7399115696817495390
+    second: wizard attack_246
+  - first:
+      213: 4395276088711230416
+    second: wizard attack_247
+  - first:
+      213: -4856675268834908066
+    second: wizard attack_248
+  - first:
+      213: 8000261987739713696
+    second: wizard attack_249
+  - first:
+      213: 2021868040313760959
+    second: wizard attack_250
+  - first:
+      213: 6516769113078786921
+    second: wizard attack_251
+  - first:
+      213: -7780226507140183101
+    second: wizard attack_252
+  - first:
+      213: -7293944389206877501
+    second: wizard attack_253
+  - first:
+      213: -2970720956757835612
+    second: wizard attack_254
+  - first:
+      213: -7518585492700365892
+    second: wizard attack_255
+  - first:
+      213: -251478741751426031
+    second: wizard attack_256
+  - first:
+      213: 1480667663695069355
+    second: wizard attack_257
+  - first:
+      213: -1230583101272181063
+    second: wizard attack_258
+  - first:
+      213: 3537737694915506854
+    second: wizard attack_259
+  - first:
+      213: -4834052591864081393
+    second: wizard attack_260
+  - first:
+      213: -9029407542277812459
+    second: wizard attack_261
+  - first:
+      213: -844859269899842324
+    second: wizard attack_262
+  - first:
+      213: -4761853778817776024
+    second: wizard attack_263
+  - first:
+      213: 807198620893129201
+    second: wizard attack_264
+  - first:
+      213: 5158906689085116043
+    second: wizard attack_265
+  - first:
+      213: 2686236603134795296
+    second: wizard attack_266
+  - first:
+      213: -8001411133581971441
+    second: wizard attack_267
+  - first:
+      213: 5142228752651928796
+    second: wizard attack_268
+  - first:
+      213: 927728075354713336
+    second: wizard attack_269
+  - first:
+      213: 9143997385757599754
+    second: wizard attack_270
+  - first:
+      213: 6415177075239351651
+    second: wizard attack_271
+  - first:
+      213: 851741944630960776
+    second: wizard attack_272
+  - first:
+      213: 8917375931071139519
+    second: wizard attack_273
+  - first:
+      213: -80930241996633740
+    second: wizard attack_274
+  - first:
+      213: 2465608352336155834
+    second: wizard attack_275
+  - first:
+      213: 1180980823747708124
+    second: wizard attack_276
+  - first:
+      213: -7620527226681303145
+    second: wizard attack_277
+  - first:
+      213: 8730581498294022124
+    second: wizard attack_278
+  - first:
+      213: 4510708923838151910
+    second: wizard attack_279
+  - first:
+      213: -6923983534717235042
+    second: wizard attack_280
+  - first:
+      213: 2754326676002811726
+    second: wizard attack_281
+  - first:
+      213: 2752699055449148755
+    second: wizard attack_282
+  - first:
+      213: -3529154721395022225
+    second: wizard attack_283
+  - first:
+      213: -1639586392526179324
+    second: wizard attack_284
+  - first:
+      213: 4301397987487096560
+    second: wizard attack_285
+  - first:
+      213: 7072793330168709564
+    second: wizard attack_286
+  - first:
+      213: -699605479610199097
+    second: wizard attack_287
+  - first:
+      213: 253909562614280707
+    second: wizard attack_288
+  - first:
+      213: -3063192988570104544
+    second: wizard attack_289
+  - first:
+      213: -5306613128449470252
+    second: wizard attack_290
+  - first:
+      213: -6455321718798973045
+    second: wizard attack_291
+  - first:
+      213: 3770247319272644155
+    second: wizard attack_292
+  - first:
+      213: 8919125978724657072
+    second: wizard attack_293
+  - first:
+      213: -1303410478570637364
+    second: wizard attack_294
+  - first:
+      213: -7611590207786842636
+    second: wizard attack_295
+  - first:
+      213: 5731136620401941047
+    second: wizard attack_296
+  - first:
+      213: 7579314386134047578
+    second: wizard attack_297
+  - first:
+      213: 6549957389249691346
+    second: wizard attack_298
+  - first:
+      213: 7711088913439902637
+    second: wizard attack_299
+  - first:
+      213: -8733355553893112704
+    second: wizard attack_300
+  - first:
+      213: -5258567475936421536
+    second: wizard attack_301
+  - first:
+      213: -6394659052301363084
+    second: wizard attack_302
+  - first:
+      213: 9068033955397516134
+    second: wizard attack_303
+  - first:
+      213: 1666041672052372538
+    second: wizard attack_304
+  - first:
+      213: 1348367425448472126
+    second: wizard attack_305
+  - first:
+      213: 606500195613737876
+    second: wizard attack_306
+  - first:
+      213: -677350289475362472
+    second: wizard attack_307
+  - first:
+      213: 2324445303859333302
+    second: wizard attack_308
+  - first:
+      213: 3710572415460320499
+    second: wizard attack_309
+  - first:
+      213: 7730620624943819752
+    second: wizard attack_310
+  - first:
+      213: -2598053460816244473
+    second: wizard attack_311
+  - first:
+      213: 110896650492681147
+    second: wizard attack_312
+  - first:
+      213: -7162180541361993868
+    second: wizard attack_313
+  - first:
+      213: 6432627667041968349
+    second: wizard attack_314
+  - first:
+      213: -8128027241356255716
+    second: wizard attack_315
+  - first:
+      213: -1122475330538842683
+    second: wizard attack_316
+  - first:
+      213: 1154332373706312504
+    second: wizard attack_317
+  - first:
+      213: 6439530137326591908
+    second: wizard attack_318
+  - first:
+      213: 6399384503410561254
+    second: wizard attack_319
+  - first:
+      213: 4907890576023615178
+    second: wizard attack_320
+  - first:
+      213: -1508694288391540186
+    second: wizard attack_321
+  - first:
+      213: -4687813941597349323
+    second: wizard attack_322
+  - first:
+      213: -3463062726726511921
+    second: wizard attack_323
+  - first:
+      213: 7155475025055484515
+    second: wizard attack_324
+  - first:
+      213: -597275479246127778
+    second: wizard attack_325
+  - first:
+      213: -3544707358365488766
+    second: wizard attack_326
+  - first:
+      213: -8786510497836372099
+    second: wizard attack_327
+  - first:
+      213: 1174253622296193673
+    second: wizard attack_328
+  - first:
+      213: 1821771850003181416
+    second: wizard attack_329
+  - first:
+      213: 2744708916828855925
+    second: wizard attack_330
+  - first:
+      213: 4671315181812707116
+    second: wizard attack_331
+  - first:
+      213: -3037142689168129320
+    second: wizard attack_332
+  - first:
+      213: -6137232690904236653
+    second: wizard attack_333
+  - first:
+      213: -4962234562530392252
+    second: wizard attack_334
+  - first:
+      213: -1445655988779360967
+    second: wizard attack_335
+  - first:
+      213: 7782854744524701700
+    second: wizard attack_336
+  - first:
+      213: -8165490035970737287
+    second: wizard attack_337
+  - first:
+      213: 3355750323914031820
+    second: wizard attack_338
+  - first:
+      213: -8207192133902469643
+    second: wizard attack_339
+  - first:
+      213: -1565705176469396625
+    second: wizard attack_340
+  - first:
+      213: -2600969659768666336
+    second: wizard attack_341
+  - first:
+      213: 6899737354372368485
+    second: wizard attack_342
+  - first:
+      213: 3461895761717368549
+    second: wizard attack_343
+  - first:
+      213: 2059954932027119901
+    second: wizard attack_344
+  - first:
+      213: -5046933906984171232
+    second: wizard attack_345
+  - first:
+      213: 329685581292061668
+    second: wizard attack_346
+  - first:
+      213: 2450876154793947974
+    second: wizard attack_347
+  - first:
+      213: 1079449646229668485
+    second: wizard attack_348
+  - first:
+      213: 8745202655955417041
+    second: wizard attack_349
+  - first:
+      213: -6049618320745907958
+    second: wizard attack_350
+  - first:
+      213: -4886475358844990536
+    second: wizard attack_351
+  - first:
+      213: -9105003747787508804
+    second: wizard attack_352
+  - first:
+      213: -8272474266541227758
+    second: wizard attack_353
+  - first:
+      213: -28076490352055471
+    second: wizard attack_354
+  - first:
+      213: -1972262069258341059
+    second: wizard attack_355
+  - first:
+      213: 471746612177444501
+    second: wizard attack_356
+  - first:
+      213: -5874943959434309528
+    second: wizard attack_357
+  - first:
+      213: -7016995145585924044
+    second: wizard attack_358
+  - first:
+      213: 5961689025073710186
+    second: wizard attack_359
+  - first:
+      213: -4403265486378447648
+    second: wizard attack_360
+  - first:
+      213: -700543476857566790
+    second: wizard attack_361
+  - first:
+      213: -5990367285369451423
+    second: wizard attack_362
+  - first:
+      213: 1987911220835380044
+    second: wizard attack_363
+  - first:
+      213: -6876509411893312984
+    second: wizard attack_364
+  - first:
+      213: 395832616299580753
+    second: wizard attack_365
+  - first:
+      213: -3568557911660903820
+    second: wizard attack_366
+  - first:
+      213: 6811988597728645473
+    second: wizard attack_367
+  - first:
+      213: 2421934147766904113
+    second: wizard attack_368
+  - first:
+      213: -3478170082849426982
+    second: wizard attack_369
+  - first:
+      213: 5507759180969097376
+    second: wizard attack_370
+  - first:
+      213: 5025229583981537281
+    second: wizard attack_371
+  - first:
+      213: -485582156106089813
+    second: wizard attack_372
+  - first:
+      213: 5991503381073921462
+    second: wizard attack_373
+  - first:
+      213: -7131647135445728989
+    second: wizard attack_374
+  - first:
+      213: 2490223511745485462
+    second: wizard attack_375
+  - first:
+      213: 5690289698726570664
+    second: wizard attack_376
+  - first:
+      213: 5603871068379690053
+    second: wizard attack_377
+  - first:
+      213: -7708313897993882769
+    second: wizard attack_378
+  - first:
+      213: 8945914380931981713
+    second: wizard attack_379
+  - first:
+      213: 7290514555752751930
+    second: wizard attack_380
+  - first:
+      213: -8267194400459970961
+    second: wizard attack_381
+  - first:
+      213: -2400515177162209660
+    second: wizard attack_382
+  - first:
+      213: 94776158246158679
+    second: wizard attack_383
+  - first:
+      213: -2100354293231460154
+    second: wizard attack_384
+  - first:
+      213: 8494853328258857892
+    second: wizard attack_385
+  - first:
+      213: -2112475972144717849
+    second: wizard attack_386
+  - first:
+      213: 6160327732167736063
+    second: wizard attack_387
+  - first:
+      213: 1057044163055618860
+    second: wizard attack_388
+  - first:
+      213: -8083243941862036673
+    second: wizard attack_389
+  - first:
+      213: -601471149099020820
+    second: wizard attack_390
+  - first:
+      213: -3315331836075712669
+    second: wizard attack_391
+  - first:
+      213: -813217162037940893
+    second: wizard attack_392
+  - first:
+      213: -1318788192562069075
+    second: wizard attack_393
+  - first:
+      213: 4218954301207030450
+    second: wizard attack_394
+  - first:
+      213: 5185204243600713192
+    second: wizard attack_395
+  - first:
+      213: -5056023107567247882
+    second: wizard attack_396
+  - first:
+      213: -1655006784679774738
+    second: wizard attack_397
+  - first:
+      213: -775235662065124359
+    second: wizard attack_398
+  - first:
+      213: 2235311267059099114
+    second: wizard attack_399
+  - first:
+      213: -1396821183441744584
+    second: wizard attack_400
+  - first:
+      213: -3856342096304553196
+    second: wizard attack_401
+  - first:
+      213: -2701778660401355923
+    second: wizard attack_402
+  - first:
+      213: -5708707324689975442
+    second: wizard attack_403
+  - first:
+      213: -7517077612069150272
+    second: wizard attack_404
+  - first:
+      213: -3471678962617598952
+    second: wizard attack_405
+  - first:
+      213: 3973586523142061504
+    second: wizard attack_406
+  - first:
+      213: 4958662048656891651
+    second: wizard attack_407
+  - first:
+      213: 7867020879749425287
+    second: wizard attack_408
+  - first:
+      213: 7113671227630683660
+    second: wizard attack_409
+  - first:
+      213: 1904368678385609201
+    second: wizard attack_410
+  - first:
+      213: -2282376333562835411
+    second: wizard attack_411
+  - first:
+      213: -7141353105673233625
+    second: wizard attack_412
+  - first:
+      213: 2119816184454687787
+    second: wizard attack_413
+  - first:
+      213: 8067282502433221988
+    second: wizard attack_414
+  - first:
+      213: 5056468320314124136
+    second: wizard attack_415
+  - first:
+      213: -7846693170246104342
+    second: wizard attack_416
+  - first:
+      213: -1111508248847679770
+    second: wizard attack_417
+  - first:
+      213: -3962328535692976978
+    second: wizard attack_418
+  - first:
+      213: 1386147558716116375
+    second: wizard attack_419
+  - first:
+      213: -7844668543181260337
+    second: wizard attack_420
+  - first:
+      213: -3872150049675068357
+    second: wizard attack_421
+  - first:
+      213: -795063496183937807
+    second: wizard attack_422
+  - first:
+      213: -6685444287941714525
+    second: wizard attack_423
+  - first:
+      213: -1112721289248561092
+    second: wizard attack_424
+  - first:
+      213: -4567956660869412050
+    second: wizard attack_425
+  - first:
+      213: -6655134363439999887
+    second: wizard attack_426
+  - first:
+      213: -2390378909936421389
+    second: wizard attack_427
+  - first:
+      213: -6589193970721844622
+    second: wizard attack_428
+  - first:
+      213: 162464246647247819
+    second: wizard attack_429
+  - first:
+      213: 3809627566224201508
+    second: wizard attack_430
+  - first:
+      213: -7436666768917384848
+    second: wizard attack_431
+  - first:
+      213: -1933601849567988211
+    second: wizard attack_432
+  - first:
+      213: 1742196966237826179
+    second: wizard attack_433
+  - first:
+      213: -563648684274330930
+    second: wizard attack_434
+  - first:
+      213: 6281326675559117405
+    second: wizard attack_435
+  - first:
+      213: 1287966553325469971
+    second: wizard attack_436
+  - first:
+      213: 4387006676323396944
+    second: wizard attack_437
+  - first:
+      213: 2569189769179338772
+    second: wizard attack_438
+  - first:
+      213: -4212826781566980811
+    second: wizard attack_439
+  - first:
+      213: -4988388032647996595
+    second: wizard attack_440
+  - first:
+      213: -122767521726997654
+    second: wizard attack_441
+  - first:
+      213: 6043694303262677994
+    second: wizard attack_442
+  - first:
+      213: 6794981694313150513
+    second: wizard attack_443
+  - first:
+      213: 2374457717870264105
+    second: wizard attack_444
+  - first:
+      213: -3050034221087819778
+    second: wizard attack_445
+  - first:
+      213: 1381869049828690041
+    second: wizard attack_446
+  - first:
+      213: 7295441609245774757
+    second: wizard attack_447
+  - first:
+      213: -6046622881962533549
+    second: wizard attack_448
+  - first:
+      213: 1490378520302701143
+    second: wizard attack_449
+  - first:
+      213: 3860910568340245601
+    second: wizard attack_450
+  - first:
+      213: 2400851494470333237
+    second: wizard attack_451
+  - first:
+      213: 628849645066527572
+    second: wizard attack_452
+  - first:
+      213: 4426087195230671691
+    second: wizard attack_453
+  - first:
+      213: 1018991576576357488
+    second: wizard attack_454
+  - first:
+      213: -4997133858493644347
+    second: wizard attack_455
+  - first:
+      213: -7037658814434148040
+    second: wizard attack_456
+  - first:
+      213: -7463320274066522572
+    second: wizard attack_457
+  - first:
+      213: 3500787503995267835
+    second: wizard attack_458
+  - first:
+      213: 4640027930844038617
+    second: wizard attack_459
+  - first:
+      213: 997681043276302120
+    second: wizard attack_460
+  - first:
+      213: 1498795539575773750
+    second: wizard attack_461
+  - first:
+      213: 8513753660729755809
+    second: wizard attack_462
+  - first:
+      213: 7993943459447678179
+    second: wizard attack_463
+  - first:
+      213: -8398097420798787916
+    second: wizard attack_464
+  - first:
+      213: 1568700507753573609
+    second: wizard attack_465
+  - first:
+      213: -1254368521778242687
+    second: wizard attack_466
+  - first:
+      213: 1765568378839145860
+    second: wizard attack_467
+  - first:
+      213: -7067271976668217641
+    second: wizard attack_468
+  - first:
+      213: -7166961054772550062
+    second: wizard attack_469
+  - first:
+      213: -3428713586138260062
+    second: wizard attack_470
+  - first:
+      213: -129474903399358905
+    second: wizard attack_471
+  - first:
+      213: -5591311982378388513
+    second: wizard attack_472
+  - first:
+      213: 9124674087120605582
+    second: wizard attack_473
+  - first:
+      213: 5540758078568795192
+    second: wizard attack_474
+  - first:
+      213: 3183436441537963394
+    second: wizard attack_475
+  - first:
+      213: 9050697956041660650
+    second: wizard attack_476
+  - first:
+      213: 7224704515139695254
+    second: wizard attack_477
+  - first:
+      213: -2200135247113923025
+    second: wizard attack_478
+  - first:
+      213: -6415662104015415441
+    second: wizard attack_479
+  - first:
+      213: -258071492927007667
+    second: wizard attack_480
+  - first:
+      213: -4008331533032492146
+    second: wizard attack_481
+  - first:
+      213: -2081106811613277800
+    second: wizard attack_482
+  - first:
+      213: -38598445918404505
+    second: wizard attack_483
+  - first:
+      213: 3474482919883618789
+    second: wizard attack_484
+  - first:
+      213: -462524078101369867
+    second: wizard attack_485
+  - first:
+      213: -5663242891702253281
+    second: wizard attack_486
+  - first:
+      213: -6477220919835991101
+    second: wizard attack_487
+  - first:
+      213: 2272857082671926084
+    second: wizard attack_488
+  - first:
+      213: 8159128313132693206
+    second: wizard attack_489
+  - first:
+      213: 5160442944472761441
+    second: wizard attack_490
+  - first:
+      213: -7043689387488127935
+    second: wizard attack_491
+  - first:
+      213: -8519925664134323400
+    second: wizard attack_492
+  - first:
+      213: 7194665372713477017
+    second: wizard attack_493
+  - first:
+      213: 6541490329868801814
+    second: wizard attack_494
+  - first:
+      213: -6371687060413860811
+    second: wizard attack_495
+  - first:
+      213: -6587422260445032130
+    second: wizard attack_496
+  - first:
+      213: -8296555290690093704
+    second: wizard attack_497
+  - first:
+      213: -7552150768299455964
+    second: wizard attack_498
+  - first:
+      213: -5488552303591070892
+    second: wizard attack_499
+  - first:
+      213: -2048790390167173805
+    second: wizard attack_500
+  - first:
+      213: -6627789682628184513
+    second: wizard attack_501
+  - first:
+      213: 545668598293952241
+    second: wizard attack_502
+  - first:
+      213: 4224696010076553749
+    second: wizard attack_503
+  - first:
+      213: 6260226574191689841
+    second: wizard attack_504
+  - first:
+      213: -1868242147217432669
+    second: wizard attack_505
+  - first:
+      213: 411784262047782619
+    second: wizard attack_506
+  - first:
+      213: 252005728231521952
+    second: wizard attack_507
+  - first:
+      213: -5308412816814637914
+    second: wizard attack_508
+  - first:
+      213: 9159327509251770501
+    second: wizard attack_509
+  - first:
+      213: 6618784368544882987
+    second: wizard attack_510
+  - first:
+      213: 2481107652769427572
+    second: wizard attack_511
+  - first:
+      213: 172245301149919718
+    second: wizard attack_512
+  - first:
+      213: 1044568621463929513
+    second: wizard attack_513
+  - first:
+      213: 9186707955571627612
+    second: wizard attack_514
+  - first:
+      213: -6022206430488468204
+    second: wizard attack_515
+  - first:
+      213: -829375029142817298
+    second: wizard attack_516
+  - first:
+      213: -5283732456356349504
+    second: wizard attack_517
+  - first:
+      213: 3596335686754924198
+    second: wizard attack_518
+  - first:
+      213: -8291581816683208017
+    second: wizard attack_519
+  - first:
+      213: -5966376987225087809
+    second: wizard attack_520
+  - first:
+      213: -9038263261583212321
+    second: wizard attack_521
+  - first:
+      213: 6245252627710612903
+    second: wizard attack_522
+  - first:
+      213: 6179697410930105562
+    second: wizard attack_523
+  - first:
+      213: 2220741033844663270
+    second: wizard attack_524
+  - first:
+      213: -6385926297874483361
+    second: wizard attack_525
+  - first:
+      213: -1152844890560843845
+    second: wizard attack_526
+  - first:
+      213: 158035798997039833
+    second: wizard attack_527
+  - first:
+      213: 3423410032318526240
+    second: wizard attack_528
+  - first:
+      213: 5596584117852421773
+    second: wizard attack_529
+  - first:
+      213: 1790702262954739341
+    second: wizard attack_530
+  - first:
+      213: -3831161159784725083
+    second: wizard attack_531
+  - first:
+      213: -6058484796361548786
+    second: wizard attack_532
+  - first:
+      213: 8479677270694714806
+    second: wizard attack_533
+  - first:
+      213: -1498834423426249344
+    second: wizard attack_534
+  - first:
+      213: 2958409769238314024
+    second: wizard attack_535
+  - first:
+      213: -8793742142508147730
+    second: wizard attack_536
+  - first:
+      213: 465600523265792121
+    second: wizard attack_537
+  - first:
+      213: -7854273367555062820
+    second: wizard attack_538
+  - first:
+      213: 1300187967708012523
+    second: wizard attack_539
+  - first:
+      213: 8198916018458854704
+    second: wizard attack_540
+  - first:
+      213: -5396306019960270831
+    second: wizard attack_541
+  - first:
+      213: -4854725477666641715
+    second: wizard attack_542
+  - first:
+      213: 5528184398170642103
+    second: wizard attack_543
+  - first:
+      213: -3085900082063773440
+    second: wizard attack_544
+  - first:
+      213: 6249740928881196564
+    second: wizard attack_545
+  - first:
+      213: 8359562589122182454
+    second: wizard attack_546
+  - first:
+      213: 8294627962688154533
+    second: wizard attack_547
+  - first:
+      213: 7389742518360898059
+    second: wizard attack_548
+  - first:
+      213: -1406734928720493762
+    second: wizard attack_549
+  - first:
+      213: 4934873574119739580
+    second: wizard attack_550
+  - first:
+      213: 2448668230843285455
+    second: wizard attack_551
+  - first:
+      213: -1916071441274207170
+    second: wizard attack_552
+  - first:
+      213: 7553533839012669663
+    second: wizard attack_553
+  - first:
+      213: -1753686798511622891
+    second: wizard attack_554
+  - first:
+      213: -6992151220947861031
+    second: wizard attack_555
+  - first:
+      213: -1551170121406633634
+    second: wizard attack_556
+  - first:
+      213: 592319778124968822
+    second: wizard attack_557
+  - first:
+      213: 1678276600116423903
+    second: wizard attack_558
+  - first:
+      213: 366295202171110157
+    second: wizard attack_559
+  - first:
+      213: -141117155367544834
+    second: wizard attack_560
+  - first:
+      213: -5114438292549212199
+    second: wizard attack_561
+  - first:
+      213: -8599680096502724052
+    second: wizard attack_562
+  - first:
+      213: -8800674093763166278
+    second: wizard attack_563
+  - first:
+      213: -575445419334038956
+    second: wizard attack_564
+  - first:
+      213: 323802678294722734
+    second: wizard attack_565
+  - first:
+      213: 8729051378286579495
+    second: wizard attack_566
+  - first:
+      213: -7661919365140944484
+    second: wizard attack_567
+  - first:
+      213: 7777510633772744690
+    second: wizard attack_568
+  - first:
+      213: 6679272376494918093
+    second: wizard attack_569
+  - first:
+      213: -4296470443377281467
+    second: wizard attack_570
+  - first:
+      213: 4124500207523884321
+    second: wizard attack_571
+  - first:
+      213: 7873588078250962270
+    second: wizard attack_572
+  - first:
+      213: -31794750097877893
+    second: wizard attack_573
+  - first:
+      213: 6249665495965579753
+    second: wizard attack_574
+  - first:
+      213: -1545090080755811602
+    second: wizard attack_575
+  - first:
+      213: 9115171077526931966
+    second: wizard attack_576
+  - first:
+      213: 1557319545334693408
+    second: wizard attack_577
+  - first:
+      213: 7011278864635501971
+    second: wizard attack_578
+  - first:
+      213: -3043802038721487757
+    second: wizard attack_579
+  - first:
+      213: -7166262012317961581
+    second: wizard attack_580
+  - first:
+      213: -1536808804331252993
+    second: wizard attack_581
+  - first:
+      213: 4005110277586163483
+    second: wizard attack_582
+  - first:
+      213: 3128613225777066396
+    second: wizard attack_583
+  - first:
+      213: 40602254127231458
+    second: wizard attack_584
+  - first:
+      213: -2398904909040779203
+    second: wizard attack_585
+  - first:
+      213: -411928280714476584
+    second: wizard attack_586
+  - first:
+      213: 1266760593899945991
+    second: wizard attack_587
+  - first:
+      213: -6643678282634721492
+    second: wizard attack_588
+  - first:
+      213: -4592942664252912140
+    second: wizard attack_589
+  - first:
+      213: -5351782448079194955
+    second: wizard attack_590
+  - first:
+      213: -8201591102699287972
+    second: wizard attack_591
+  - first:
+      213: 4808217127521061444
+    second: wizard attack_592
+  - first:
+      213: -5595158200063044176
+    second: wizard attack_593
+  - first:
+      213: 6368958710773426244
+    second: wizard attack_594
+  - first:
+      213: 2127199243264071503
+    second: wizard attack_595
+  - first:
+      213: 508011160363659274
+    second: wizard attack_596
+  - first:
+      213: -4923466540080225681
+    second: wizard attack_597
+  - first:
+      213: 2224281078033765248
+    second: wizard attack_598
+  - first:
+      213: 6572540174758961108
+    second: wizard attack_599
+  - first:
+      213: -7499663786362029489
+    second: wizard attack_600
+  - first:
+      213: -2007586238166275103
+    second: wizard attack_601
+  - first:
+      213: 6930967381473381153
+    second: wizard attack_602
+  - first:
+      213: -7320091100581859502
+    second: wizard attack_603
+  - first:
+      213: -5215500239208227357
+    second: wizard attack_604
+  - first:
+      213: -7234146411979762170
+    second: wizard attack_605
+  - first:
+      213: -4540356511178150064
+    second: wizard attack_606
+  - first:
+      213: 7745708022340902234
+    second: wizard attack_607
+  - first:
+      213: -7784272193375356584
+    second: wizard attack_608
+  - first:
+      213: 5817542079809535432
+    second: wizard attack_609
+  - first:
+      213: 8807254666603078035
+    second: wizard attack_610
+  - first:
+      213: 4277383973415525438
+    second: wizard attack_611
+  - first:
+      213: 2797998998103591484
+    second: wizard attack_612
+  - first:
+      213: 5024088246141729591
+    second: wizard attack_613
+  - first:
+      213: 3177520320043005249
+    second: wizard attack_614
+  - first:
+      213: 9223194082801914524
+    second: wizard attack_615
+  - first:
+      213: -194166362753147611
+    second: wizard attack_616
+  - first:
+      213: 349450362246487121
+    second: wizard attack_617
+  - first:
+      213: -1116448029212297994
+    second: wizard attack_618
+  - first:
+      213: 787554201004083185
+    second: wizard attack_619
+  - first:
+      213: 1942438784726994340
+    second: wizard attack_620
+  - first:
+      213: 3874935196721290373
+    second: wizard attack_621
+  - first:
+      213: 4298162572000620026
+    second: wizard attack_622
+  - first:
+      213: 1307218284916649789
+    second: wizard attack_623
+  - first:
+      213: 459470736170485693
+    second: wizard attack_624
+  - first:
+      213: 8129032213000718070
+    second: wizard attack_625
+  - first:
+      213: 3106689651631689847
+    second: wizard attack_626
+  - first:
+      213: 6309277400021487329
+    second: wizard attack_627
+  - first:
+      213: 1398435754810711754
+    second: wizard attack_628
+  - first:
+      213: 5232874474847032471
+    second: wizard attack_629
+  - first:
+      213: -7373198817750062442
+    second: wizard attack_630
+  - first:
+      213: -7304361678843472161
+    second: wizard attack_631
+  - first:
+      213: 1865231817510560395
+    second: wizard attack_632
+  - first:
+      213: 7755210521772337912
+    second: wizard attack_633
+  - first:
+      213: 3873335903932497202
+    second: wizard attack_634
+  - first:
+      213: 3555528748219588113
+    second: wizard attack_635
+  - first:
+      213: -7993876604032562778
+    second: wizard attack_636
+  - first:
+      213: -329548035574731701
+    second: wizard attack_637
+  - first:
+      213: 2593682386981800554
+    second: wizard attack_638
+  - first:
+      213: 6017575102569121821
+    second: wizard attack_639
+  - first:
+      213: 5183574128573191429
+    second: wizard attack_640
+  - first:
+      213: -5787055562466225391
+    second: wizard attack_641
+  - first:
+      213: 5943124975328369402
+    second: wizard attack_642
+  - first:
+      213: 8877333135781162719
+    second: wizard attack_643
+  - first:
+      213: -556493099173710351
+    second: wizard attack_644
+  - first:
+      213: 9131730842470341054
+    second: wizard attack_645
+  - first:
+      213: 9198012799580780208
+    second: wizard attack_646
+  - first:
+      213: 4341244525349929080
+    second: wizard attack_647
+  - first:
+      213: -6861900804328642352
+    second: wizard attack_648
+  - first:
+      213: 1383190968140448643
+    second: wizard attack_649
+  - first:
+      213: 2547717540927015197
+    second: wizard attack_650
+  - first:
+      213: -5507898249223150296
+    second: wizard attack_651
+  - first:
+      213: 7826939622099709344
+    second: wizard attack_652
+  - first:
+      213: -48120281550041340
+    second: wizard attack_653
+  - first:
+      213: -3987727979389259293
+    second: wizard attack_654
+  - first:
+      213: -6570427294280051135
+    second: wizard attack_655
+  - first:
+      213: 5668887203931551881
+    second: wizard attack_656
+  - first:
+      213: -7314531690247894670
+    second: wizard attack_657
+  - first:
+      213: 1096373566121177403
+    second: wizard attack_658
+  - first:
+      213: -4834638419962758463
+    second: wizard attack_659
+  - first:
+      213: 5370818207399614744
+    second: wizard attack_660
+  - first:
+      213: -7303616071316810598
+    second: wizard attack_661
+  - first:
+      213: -2932523322208407079
+    second: wizard attack_662
+  - first:
+      213: -2572655248013800942
+    second: wizard attack_663
+  - first:
+      213: -1287117838615008536
+    second: wizard attack_664
+  - first:
+      213: 2333129589989458273
+    second: wizard attack_665
+  - first:
+      213: -5209638205635127549
+    second: wizard attack_666
+  - first:
+      213: 2793480859612783323
+    second: wizard attack_667
+  - first:
+      213: 4530379520192861572
+    second: wizard attack_668
+  - first:
+      213: -8581891808305081961
+    second: wizard attack_669
+  - first:
+      213: -4941039128586730752
+    second: wizard attack_670
+  - first:
+      213: 8895993946678834416
+    second: wizard attack_671
+  - first:
+      213: 5396144210100204609
+    second: wizard attack_672
+  - first:
+      213: -7881174449205365319
+    second: wizard attack_673
+  - first:
+      213: 3468065483084096623
+    second: wizard attack_674
+  - first:
+      213: 963853758496427800
+    second: wizard attack_675
+  - first:
+      213: 3141793707172564963
+    second: wizard attack_676
+  - first:
+      213: 5417138061359846623
+    second: wizard attack_677
+  - first:
+      213: 4534086155865145461
+    second: wizard attack_678
+  - first:
+      213: -77393292815536298
+    second: wizard attack_679
+  - first:
+      213: 5419454285460783945
+    second: wizard attack_680
+  - first:
+      213: -788203665103305724
+    second: wizard attack_681
+  - first:
+      213: 5251280810613822176
+    second: wizard attack_682
+  - first:
+      213: -4025123989479244908
+    second: wizard attack_683
+  - first:
+      213: 5746219247846022267
+    second: wizard attack_684
+  - first:
+      213: 7994308608015348557
+    second: wizard attack_685
+  - first:
+      213: -3148038379141918476
+    second: wizard attack_686
+  - first:
+      213: -7502754992869477507
+    second: wizard attack_687
+  - first:
+      213: -7681559076515250285
+    second: wizard attack_688
+  - first:
+      213: 3293986948443196637
+    second: wizard attack_689
+  - first:
+      213: -4151265480805546227
+    second: wizard attack_690
+  - first:
+      213: 8615111174126900241
+    second: wizard attack_691
+  - first:
+      213: 3900973822018761211
+    second: wizard attack_692
+  - first:
+      213: -3802548665742974815
+    second: wizard attack_693
+  - first:
+      213: -5921015211897345611
+    second: wizard attack_694
+  - first:
+      213: 6066520074921134129
+    second: wizard attack_695
+  - first:
+      213: -5710661524982390332
+    second: wizard attack_696
+  - first:
+      213: 1855264146883402920
+    second: wizard attack_697
+  - first:
+      213: 5059301528226285090
+    second: wizard attack_698
+  - first:
+      213: -7702977551091902769
+    second: wizard attack_699
+  - first:
+      213: -5962235498308673631
+    second: wizard attack_700
+  - first:
+      213: -9180467945731265664
+    second: wizard attack_701
+  - first:
+      213: -9151851111413734172
+    second: wizard attack_702
+  - first:
+      213: 6511337486623534378
+    second: wizard attack_703
+  - first:
+      213: 7142173968159136038
+    second: wizard attack_704
+  - first:
+      213: 5815191626090328166
+    second: wizard attack_705
+  - first:
+      213: -5653920618813450839
+    second: wizard attack_706
+  - first:
+      213: -8903555780422772851
+    second: wizard attack_707
+  - first:
+      213: 2374998185548992102
+    second: wizard attack_708
+  - first:
+      213: -273147390596130080
+    second: wizard attack_709
+  - first:
+      213: -5551910215157985128
+    second: wizard attack_710
+  - first:
+      213: -5084182629259549600
+    second: wizard attack_711
+  - first:
+      213: -6493969086858866389
+    second: wizard attack_712
+  - first:
+      213: 2957288344030393372
+    second: wizard attack_713
+  - first:
+      213: 1936301698189523030
+    second: wizard attack_714
+  - first:
+      213: -2219235126783303246
+    second: wizard attack_715
+  - first:
+      213: -5173739831028853132
+    second: wizard attack_716
+  - first:
+      213: 7104296790520521454
+    second: wizard attack_717
+  - first:
+      213: -2825116402545085736
+    second: wizard attack_718
+  - first:
+      213: -7193537478600124040
+    second: wizard attack_719
+  - first:
+      213: 7989642000851702050
+    second: wizard attack_720
+  - first:
+      213: -7907448606748850592
+    second: wizard attack_721
+  - first:
+      213: -6056291044561648424
+    second: wizard attack_722
+  - first:
+      213: -5573149291059805317
+    second: wizard attack_723
+  - first:
+      213: -7117322188752748858
+    second: wizard attack_724
+  - first:
+      213: -5585430348168297153
+    second: wizard attack_725
+  - first:
+      213: 2252555714879896410
+    second: wizard attack_726
+  - first:
+      213: -2655518085401156863
+    second: wizard attack_727
+  - first:
+      213: -5365113222862488919
+    second: wizard attack_728
+  - first:
+      213: 8509592829838267400
+    second: wizard attack_729
+  - first:
+      213: 7397988887042640681
+    second: wizard attack_730
+  - first:
+      213: 7727593800218632365
+    second: wizard attack_731
+  - first:
+      213: -1437058255905955662
+    second: wizard attack_732
+  - first:
+      213: -4607993597764027394
+    second: wizard attack_733
+  - first:
+      213: -8382748515898848777
+    second: wizard attack_734
+  - first:
+      213: -6574291237914863429
+    second: wizard attack_735
+  - first:
+      213: -1759680034326608045
+    second: wizard attack_736
+  - first:
+      213: 1592735354925295802
+    second: wizard attack_737
+  - first:
+      213: -4349620528983490763
+    second: wizard attack_738
+  - first:
+      213: 2355352186769538119
+    second: wizard attack_739
+  - first:
+      213: -9174766588845086101
+    second: wizard attack_740
+  - first:
+      213: 7777628828774611012
+    second: wizard attack_741
+  - first:
+      213: 718403539195832065
+    second: wizard attack_742
+  - first:
+      213: -3224235337653178004
+    second: wizard attack_743
+  - first:
+      213: 1833125951542241445
+    second: wizard attack_744
+  - first:
+      213: 9187767686279284774
+    second: wizard attack_745
+  - first:
+      213: -1844407687858951018
+    second: wizard attack_746
+  - first:
+      213: 2757431532248054755
+    second: wizard attack_747
+  - first:
+      213: -4583048544097038570
+    second: wizard attack_748
+  - first:
+      213: 2745108417230992123
+    second: wizard attack_749
+  - first:
+      213: -5650504240177765618
+    second: wizard attack_750
+  - first:
+      213: 2375594075014935522
+    second: wizard attack_751
+  - first:
+      213: -919736087477878165
+    second: wizard attack_752
+  - first:
+      213: 6216522708809998482
+    second: wizard attack_753
+  - first:
+      213: -8141392388741204488
+    second: wizard attack_754
+  - first:
+      213: -7262124033139414159
+    second: wizard attack_755
+  - first:
+      213: -4654609888612355678
+    second: wizard attack_756
+  - first:
+      213: -8817132326003349001
+    second: wizard attack_757
+  - first:
+      213: 3207898016710238002
+    second: wizard attack_758
+  - first:
+      213: -3187140138549115868
+    second: wizard attack_759
+  - first:
+      213: 980089037158849701
+    second: wizard attack_760
+  - first:
+      213: 2954433971753528733
+    second: wizard attack_761
+  - first:
+      213: 7452430368100830733
+    second: wizard attack_762
+  - first:
+      213: 8003271101952232695
+    second: wizard attack_763
+  - first:
+      213: 7227308427612828931
+    second: wizard attack_764
+  - first:
+      213: 1471987486680069882
+    second: wizard attack_765
+  - first:
+      213: -259617530078166500
+    second: wizard attack_766
+  - first:
+      213: -1611960517303156082
+    second: wizard attack_767
+  - first:
+      213: 8126238035253767282
+    second: wizard attack_768
+  - first:
+      213: -9063281733509082580
+    second: wizard attack_769
+  - first:
+      213: 2092243139332849018
+    second: wizard attack_770
+  - first:
+      213: 2429233698325952131
+    second: wizard attack_771
+  - first:
+      213: -9086048237652324797
+    second: wizard attack_772
+  - first:
+      213: -737058905352880321
+    second: wizard attack_773
+  - first:
+      213: -2194819754516274488
+    second: wizard attack_774
+  - first:
+      213: 8145157152670596773
+    second: wizard attack_775
+  - first:
+      213: 1843729409206797315
+    second: wizard attack_776
+  - first:
+      213: -7769239530512066983
+    second: wizard attack_777
+  - first:
+      213: 687134641810720203
+    second: wizard attack_778
+  - first:
+      213: -3077922689658250487
+    second: wizard attack_779
+  - first:
+      213: -9203283350087027626
+    second: wizard attack_780
+  - first:
+      213: 3769001360092994981
+    second: wizard attack_781
+  - first:
+      213: 1383372868923335656
+    second: wizard attack_782
+  - first:
+      213: -8923336807148997322
+    second: wizard attack_783
+  - first:
+      213: -4222850011739487366
+    second: wizard attack_784
+  - first:
+      213: -2860097373036072231
+    second: wizard attack_785
+  - first:
+      213: 8340012672180867841
+    second: wizard attack_786
+  - first:
+      213: 2507152779565476138
+    second: wizard attack_787
+  - first:
+      213: -5961986580341728473
+    second: wizard attack_788
+  - first:
+      213: -546604890575896285
+    second: wizard attack_789
+  - first:
+      213: 4180926698784256404
+    second: wizard attack_790
+  - first:
+      213: -3606010237116581037
+    second: wizard attack_791
+  - first:
+      213: 978825029389930046
+    second: wizard attack_792
+  - first:
+      213: 116083056605211967
+    second: wizard attack_793
+  - first:
+      213: 868243119561253298
+    second: wizard attack_794
+  - first:
+      213: 6144629437135334982
+    second: wizard attack_795
+  - first:
+      213: 4251301900641670580
+    second: wizard attack_796
+  - first:
+      213: 6937297222944511963
+    second: wizard attack_797
+  - first:
+      213: -8989805601516535443
+    second: wizard attack_798
+  - first:
+      213: -8603010827530536465
+    second: wizard attack_799
+  - first:
+      213: -6316250538820337140
+    second: wizard attack_800
+  - first:
+      213: 8065950104848283718
+    second: wizard attack_801
+  - first:
+      213: -3350665222942526081
+    second: wizard attack_802
+  - first:
+      213: -3848415129675733801
+    second: wizard attack_803
+  - first:
+      213: 9022121586721365437
+    second: wizard attack_804
+  - first:
+      213: -8685562621394130859
+    second: wizard attack_805
+  - first:
+      213: 5928749889739506844
+    second: wizard attack_806
+  - first:
+      213: 4576671243446699454
+    second: wizard attack_807
+  - first:
+      213: -7489666768832465277
+    second: wizard attack_808
+  - first:
+      213: 3937498803681345736
+    second: wizard attack_809
+  - first:
+      213: -4262333927716666421
+    second: wizard attack_810
+  - first:
+      213: -5041287343009984464
+    second: wizard attack_811
+  - first:
+      213: -1349199437846350306
+    second: wizard attack_812
+  - first:
+      213: 3393359452558132522
+    second: wizard attack_813
+  - first:
+      213: -7724500620586732909
+    second: wizard attack_814
+  - first:
+      213: 5342894173705413877
+    second: wizard attack_815
+  - first:
+      213: 8288154609572002965
+    second: wizard attack_816
+  - first:
+      213: -7081296807993058331
+    second: wizard attack_817
+  - first:
+      213: 9207965457554425187
+    second: wizard attack_818
+  - first:
+      213: 2112162321232735397
+    second: wizard attack_819
+  - first:
+      213: -3689478912558402451
+    second: wizard attack_820
+  - first:
+      213: -6106946113617697944
+    second: wizard attack_821
+  - first:
+      213: -6256563259104211220
+    second: wizard attack_822
+  - first:
+      213: -4595190572588154532
+    second: wizard attack_823
+  - first:
+      213: 7837191964964663892
+    second: wizard attack_824
+  - first:
+      213: -4210359103456985260
+    second: wizard attack_825
+  - first:
+      213: -997249920653567019
+    second: wizard attack_826
+  - first:
+      213: 5327245809931714227
+    second: wizard attack_827
+  - first:
+      213: -2025681336873636122
+    second: wizard attack_828
+  - first:
+      213: -7334705420091830121
+    second: wizard attack_829
+  - first:
+      213: -3744986787357976209
+    second: wizard attack_830
+  - first:
+      213: 5792500835457386218
+    second: wizard attack_831
+  - first:
+      213: 388756026367193443
+    second: wizard attack_832
+  - first:
+      213: 7687446144272099086
+    second: wizard attack_833
+  - first:
+      213: -426600265672970661
+    second: wizard attack_834
+  - first:
+      213: -566373687069990951
+    second: wizard attack_835
+  - first:
+      213: -5869954886280857494
+    second: wizard attack_836
+  - first:
+      213: 4225708317695078341
+    second: wizard attack_837
+  - first:
+      213: 2107851947892785546
+    second: wizard attack_838
+  - first:
+      213: -8939039150130428417
+    second: wizard attack_839
+  - first:
+      213: 4817145167802790465
+    second: wizard attack_840
+  - first:
+      213: -1334668300394296722
+    second: wizard attack_841
+  - first:
+      213: -1817333262556551568
+    second: wizard attack_842
+  - first:
+      213: 7591747457800874556
+    second: wizard attack_843
+  - first:
+      213: -4940083280151652053
+    second: wizard attack_844
+  - first:
+      213: 5867745687271811914
+    second: wizard attack_845
+  - first:
+      213: 9177022963537807604
+    second: wizard attack_846
+  - first:
+      213: -2102609751700967472
+    second: wizard attack_847
+  - first:
+      213: -2022558142817458653
+    second: wizard attack_848
+  - first:
+      213: 495534721008760667
+    second: wizard attack_849
+  - first:
+      213: 7910120395645995287
+    second: wizard attack_850
+  - first:
+      213: 238277990437849887
+    second: wizard attack_851
+  - first:
+      213: 3668211735525408679
+    second: wizard attack_852
+  - first:
+      213: -4670185725340453792
+    second: wizard attack_853
+  - first:
+      213: -3031045406314532274
+    second: wizard attack_854
+  - first:
+      213: -7778871337929023365
+    second: wizard attack_855
+  - first:
+      213: 1146795972196626081
+    second: wizard attack_856
+  - first:
+      213: -8781979023073661673
+    second: wizard attack_857
+  - first:
+      213: 5968463101193939155
+    second: wizard attack_858
+  - first:
+      213: -3367003253208912076
+    second: wizard attack_859
+  - first:
+      213: -7289409802520904518
+    second: wizard attack_860
+  - first:
+      213: 8443525270650836009
+    second: wizard attack_861
+  - first:
+      213: 1743387300524267446
+    second: wizard attack_862
+  - first:
+      213: -1274873955860125844
+    second: wizard attack_863
+  - first:
+      213: -4096090527438247169
+    second: wizard attack_864
+  - first:
+      213: -7984437662674510948
+    second: wizard attack_865
+  - first:
+      213: -242043539613704471
+    second: wizard attack_866
+  - first:
+      213: -1883294115495230807
+    second: wizard attack_867
+  - first:
+      213: -2958754941127149310
+    second: wizard attack_868
+  - first:
+      213: -8869398772434285847
+    second: wizard attack_869
+  - first:
+      213: -7768962791837892184
+    second: wizard attack_870
+  - first:
+      213: -5221923247399569354
+    second: wizard attack_871
+  - first:
+      213: -6977596220342898855
+    second: wizard attack_872
+  - first:
+      213: 7632607041789782989
+    second: wizard attack_873
+  - first:
+      213: -4573233847909539002
+    second: wizard attack_874
+  - first:
+      213: 8025260994494400833
+    second: wizard attack_875
+  - first:
+      213: 3771399211986272005
+    second: wizard attack_876
+  - first:
+      213: 6173974504123658531
+    second: wizard attack_877
+  - first:
+      213: -5045987205006984946
+    second: wizard attack_878
+  - first:
+      213: 2007205157238131921
+    second: wizard attack_879
+  - first:
+      213: -7100833861595951627
+    second: wizard attack_880
+  - first:
+      213: 8465007397453271487
+    second: wizard attack_881
+  - first:
+      213: -862606625754703229
+    second: wizard attack_882
+  - first:
+      213: -3355210607690714197
+    second: wizard attack_883
+  - first:
+      213: -3747132318254336194
+    second: wizard attack_884
+  - first:
+      213: -2457907426521413081
+    second: wizard attack_885
+  - first:
+      213: -7711870150023321536
+    second: wizard attack_886
+  - first:
+      213: 2946613955636804790
+    second: wizard attack_887
+  - first:
+      213: -8495364799749343485
+    second: wizard attack_888
+  - first:
+      213: 75783334522452698
+    second: wizard attack_889
+  - first:
+      213: 8953417677948014786
+    second: wizard attack_890
+  - first:
+      213: -3420670390941374081
+    second: wizard attack_891
+  - first:
+      213: -1689403203477355233
+    second: wizard attack_892
+  - first:
+      213: 6650312471878882712
+    second: wizard attack_893
+  - first:
+      213: -1290944475295167941
+    second: wizard attack_894
+  - first:
+      213: -1201126780539252000
+    second: wizard attack_895
+  - first:
+      213: 1791527695123735282
+    second: wizard attack_896
+  - first:
+      213: -4074524246063816392
+    second: wizard attack_897
+  - first:
+      213: -1149114831420954629
+    second: wizard attack_898
+  - first:
+      213: -1534513037532896167
+    second: wizard attack_899
+  - first:
+      213: 2036728557842601607
+    second: wizard attack_900
+  - first:
+      213: -4550283304465432584
+    second: wizard attack_901
+  - first:
+      213: -1903817844962824838
+    second: wizard attack_902
+  - first:
+      213: 2440514181806606050
+    second: wizard attack_903
+  - first:
+      213: -433007172783224648
+    second: wizard attack_904
+  - first:
+      213: 8391524782205064174
+    second: wizard attack_905
+  - first:
+      213: -167180646539477124
+    second: wizard attack_906
+  - first:
+      213: -8901742041281511306
+    second: wizard attack_907
+  - first:
+      213: -1754648923608219965
+    second: wizard attack_908
+  - first:
+      213: -818363103923486392
+    second: wizard attack_909
+  - first:
+      213: -8518591225101083684
+    second: wizard attack_910
+  - first:
+      213: -836375160818328412
+    second: wizard attack_911
+  - first:
+      213: -5841005293109161532
+    second: wizard attack_912
+  - first:
+      213: -5931406692381630755
+    second: wizard attack_913
+  - first:
+      213: 5063816242821915967
+    second: wizard attack_914
+  - first:
+      213: -4757998361754491214
+    second: wizard attack_915
+  - first:
+      213: 6258343557770351114
+    second: wizard attack_916
+  - first:
+      213: -2921962504944128454
+    second: wizard attack_917
+  - first:
+      213: -661608817741937224
+    second: wizard attack_918
+  - first:
+      213: 4314525811634392529
+    second: wizard attack_919
+  - first:
+      213: -5038613548729307671
+    second: wizard attack_920
+  - first:
+      213: 8294784696304051808
+    second: wizard attack_921
+  - first:
+      213: -5373393190360979487
+    second: wizard attack_922
+  - first:
+      213: -661713045408358895
+    second: wizard attack_923
+  - first:
+      213: -4143777317112901524
+    second: wizard attack_924
+  - first:
+      213: -4286757232452250123
+    second: wizard attack_925
+  - first:
+      213: 5766020319891453373
+    second: wizard attack_926
+  - first:
+      213: 384167703811253998
+    second: wizard attack_927
+  - first:
+      213: -7366785672074779911
+    second: wizard attack_928
+  - first:
+      213: -1307381934600209716
+    second: wizard attack_929
+  - first:
+      213: -5994536532290959788
+    second: wizard attack_930
+  - first:
+      213: -5832519935788038069
+    second: wizard attack_931
+  - first:
+      213: -2525606701777680070
+    second: wizard attack_932
+  - first:
+      213: 7227671347212524710
+    second: wizard attack_933
+  - first:
+      213: -2089215101347345157
+    second: wizard attack_934
+  - first:
+      213: -8631376947186004327
+    second: wizard attack_935
+  - first:
+      213: 5860797253614144553
+    second: wizard attack_936
+  - first:
+      213: 5319989947136789599
+    second: wizard attack_937
+  - first:
+      213: 6050013568740892820
+    second: wizard attack_938
+  - first:
+      213: -7539377722012689524
+    second: wizard attack_939
+  - first:
+      213: 7389454776682545677
+    second: wizard attack_940
+  - first:
+      213: -5150079780206064237
+    second: wizard attack_941
+  - first:
+      213: 1838039918393546840
+    second: wizard attack_942
+  - first:
+      213: -7576908654629056120
+    second: wizard attack_943
+  - first:
+      213: 4562593857306295220
+    second: wizard attack_944
+  - first:
+      213: -2551137533552857248
+    second: wizard attack_945
+  - first:
+      213: -4532860026713280723
+    second: wizard attack_946
+  - first:
+      213: 3021245505633916824
+    second: wizard attack_947
+  - first:
+      213: -7809276074179846055
+    second: wizard attack_948
+  - first:
+      213: -653110705214271793
+    second: wizard attack_949
+  - first:
+      213: 7067472421030518566
+    second: wizard attack_950
+  - first:
+      213: -3934444919796784166
+    second: wizard attack_951
+  - first:
+      213: -819552064110869911
+    second: wizard attack_952
+  - first:
+      213: 2141790125009390398
+    second: wizard attack_953
+  - first:
+      213: -8601203118701950322
+    second: wizard attack_954
+  - first:
+      213: 1593097957081721326
+    second: wizard attack_955
+  - first:
+      213: -7851773956434058849
+    second: wizard attack_956
+  - first:
+      213: -8052551343749295044
+    second: wizard attack_957
+  - first:
+      213: 3056101663209211959
+    second: wizard attack_958
+  - first:
+      213: -2334221177467825787
+    second: wizard attack_959
+  - first:
+      213: 904344336540845489
+    second: wizard attack_960
+  - first:
+      213: -6497463378010713517
+    second: wizard attack_961
+  - first:
+      213: 8824307458926270441
+    second: wizard attack_962
+  - first:
+      213: 1194214529666574856
+    second: wizard attack_963
+  - first:
+      213: 3286841432154568139
+    second: wizard attack_964
+  - first:
+      213: -7879926321080445664
+    second: wizard attack_965
+  - first:
+      213: 5715496287622786945
+    second: wizard attack_966
+  - first:
+      213: 6894906074639449706
+    second: wizard attack_967
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wizard attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab26074be679310800000000000000
+      internalID: 1411718729462627031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_1
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea4aa4629969630800000000000000
+      internalID: 3933499714294820406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_2
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e018d44bddd2059e0800000000000000
+      internalID: -1634756234499489522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_3
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2f6d83768f2e80800000000000000
+      internalID: -8201188565566148735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_4
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6abe6461fe67630800000000000000
+      internalID: 3924587004258133671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_5
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e96ca75f81c2330800000000000000
+      internalID: 3687349637515484808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_6
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 1360
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90141cad7de734650800000000000000
+      internalID: 6215951376254583049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5fdb76f7c970580800000000000000
+      internalID: -8860941670812879454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_8
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618cdcf9e3731690800000000000000
+      internalID: -7632629494655975057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_9
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b8b7f5babebdbb0800000000000000
+      internalID: -4910071847443526791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_10
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6be5a1e9876c90800000000000000
+      internalID: -7176615878947278896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_11
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e08a1a770dd5ad0800000000000000
+      internalID: -2711782188375339434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_12
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c219e8b758ab2880800000000000000
+      internalID: -8634622765834890560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wizard attack_13
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 160
+        width: 1250
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca4347e4fb29980800000000000000
+      internalID: -8533548000235705288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
